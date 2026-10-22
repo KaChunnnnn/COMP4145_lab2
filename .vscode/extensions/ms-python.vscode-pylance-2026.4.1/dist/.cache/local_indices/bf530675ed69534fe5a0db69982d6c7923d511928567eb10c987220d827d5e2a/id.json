@@ -1,0 +1,1 @@
+[[[0,"c:\\Python314\\Lib\\site-packages\\id\\__init__.py","","",null,0],[false,[["__version__",1,13,null],["IdentityError",1,5,null],["AmbientCredentialError",1,5,null],["GitHubOidcPermissionCredentialError",1,5,null],["_validate_credential",1,12,null],["detect_credential",1,12,null],["decode_oidc_token",1,12,null]]]]]

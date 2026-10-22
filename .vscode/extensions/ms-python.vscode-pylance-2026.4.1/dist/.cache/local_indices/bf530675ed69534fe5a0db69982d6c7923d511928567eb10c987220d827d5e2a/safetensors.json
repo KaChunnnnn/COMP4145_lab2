@@ -1,0 +1,1 @@
+[[[0,"c:\\Python314\\Lib\\site-packages\\safetensors\\__init__.pyi","","",null,0],[false,[["__version__",1,13,null],["deserialize",1,12,null],["serialize",1,12,null],["serialize_file",1,12,null],["TensorSpec",1,5,null],["safe_open",1,5,null],["SafetensorError",1,5,null]]]]]
